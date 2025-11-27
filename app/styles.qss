@@ -1,0 +1,40 @@
+/* Основной фон */
+QWidget {
+  background-color: #FFFFFF;
+  font-family: "Segoe UI";
+  font-size: 14px;
+}
+
+/* Дополнительный фон для контейнеров */
+#main_container, #header {
+  background-color: #F4E8D3;
+}
+
+/* Карточка партнера */
+.partner_card {
+  background-color: #FFFFFF;
+  border: 1px solid #D6C7B2;
+  border-radius: 8px;
+  padding: 14px;
+}
+
+/* Акцентная кнопка */
+QPushButton#accent {
+  background-color: #67BA80;
+  color: white;
+  border-radius: 6px;
+  padding: 6px 14px;
+  font-weight: bold;
+}
+
+/* Обычные кнопки */
+QPushButton {
+  background-color: #EFE9DF;
+  border: 1px solid #C6BBAA;
+  border-radius: 6px;
+  padding: 4px 10px;
+}
+
+QPushButton:hover {
+  background-color: #E8E2D7;
+}
