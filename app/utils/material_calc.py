@@ -1,4 +1,4 @@
-# app/utils/material_calc.py
+
 import math
 from database import get_connection
 
