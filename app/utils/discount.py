@@ -1,4 +1,3 @@
-# app/utils/discount.py
 
 def calculate_partner_discount(total_quantity):
     try:
