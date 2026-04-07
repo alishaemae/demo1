@@ -1,4 +1,4 @@
-# app/database.py
+
 import pymysql
 from pymysql.cursors import DictCursor
 
